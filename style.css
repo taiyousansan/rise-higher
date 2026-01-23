@@ -94,9 +94,10 @@ body {
 }
 
 .cta-section .cta {
-  background: #000;
-  color: #fff;
-  margin-top: 20px;
+.cta-section p {
+  margin-bottom: 10px;
+}
+
 }
 
 /* FOOTER */
