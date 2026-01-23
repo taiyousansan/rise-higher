@@ -96,6 +96,7 @@ body {
 .cta-section .cta {
   background: #000;
   color: #fff;
+  margin-top: 20px;
 }
 
 /* FOOTER */
@@ -115,3 +116,4 @@ footer {
 body {
   padding-bottom: 90px;
 }
+
